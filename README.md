@@ -64,6 +64,17 @@ I architect with purpose, lead with empathy, and code like I mean it.
 
 ---
 
+## Projects & Coursework
+
+| Repository | Description | Technologies |
+|------------|-------------|--------------|
+| [cse340-hw](https://github.com/acottam/cse340-hw) | Web Backend Development | Node.js, Express, PostgreSQL |
+| [cse210-hw](https://github.com/acottam/cse210-hw) | Object-Oriented Programming | C# |
+| [wdd231](https://github.com/acottam/wdd231) | Advanced Web Development | HTML, CSS, JavaScript |
+| [wdd131](https://github.com/acottam/wdd131) | Web Fundamentals | HTML, CSS, JavaScript |
+
+---
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamcottampdx)
