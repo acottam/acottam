@@ -83,6 +83,7 @@ I architect with purpose, lead with empathy, and code like I mean it.
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamcottampdx)
+[![Salesforce Trailblazer](https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/adamcottam)
 
 ---
 
